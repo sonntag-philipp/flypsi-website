@@ -1,7 +1,6 @@
 <script>
     import profile_picture from '$lib/assets/images/profile_picture.jpg';
     import github_logo from '$lib/assets/images/github-logo.svg';
-    import stackoverflow_logo from '$lib/assets/images/stackoverflow-logo.svg';
 </script>
 
 <div class="flex flex-col h-full">
