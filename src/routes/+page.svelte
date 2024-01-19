@@ -1,2 +1,21 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+    import Heading from '$lib/heading.svelte';
+</script>
+
+<div class="h-dvh w-full overflow-y-scroll snap-mandatory snap-y">
+    <div class="slides bg-slate-700">
+        <Heading />
+    </div>
+    <div class="slides bg-red-600">
+        <Heading />
+    </div>
+    <div class="slides bg-blue-600">
+        <Heading />
+    </div>
+</div>
+
+<style lang="postcss">
+    .slides {
+        @apply flex flex-col items-center justify-center w-full h-dvh gap-4 snap-start;
+    }
+</style>
