@@ -12,13 +12,13 @@
                 for about 1 year now. I've worked on multiple projects, both frontend and backend, and
                 I'm familiar with the Svelte ecosystem.
             </p>
-            <p class="text-base">
+            <p class="hidden lg:block text-base">
                 <b class="underline underline-offset-2">NodeJS: </b> I've been working with NodeJS for
                 about 2 years now. I've worked on multiple projects, both frontend and backend, and I'm
                 familiar with the NodeJS ecosystem.
             </p>
         </div>
-        <div class="flex flex-col sm:flex-row gap-4">
+        <div class="hidden lg:flex flex-col sm:flex-row gap-4">
             <p class="text-base">
                 <b class="underline underline-offset-2">Angular: </b> I've been working with Angular
                 for about 2 years now. I've worked on multiple projects, both frontend and backend, and
