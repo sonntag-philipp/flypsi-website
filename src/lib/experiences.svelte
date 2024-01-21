@@ -1,14 +1,14 @@
 <div class="w-full h-full max-w-screen-lg flex justify-center items-center">
     <div>
-        <h1 class="text-2xl">Technologies:</h1>
+        <h1 class="text-2xl">Experiences</h1>
         <div class="flex flex-col sm:flex-row gap-4 py-4">
             <p class="text-base">
                 <b class="underline underline-offset-2">Angular: </b> I've been working with Angular
-                for about <b>5 years</b> now. I've worked on multiple projects, where I updated old existing
-                projects to the latest Angular version, and I'm familiar with the Angular ecosystem.
+                for about 2 years now. I've worked on multiple projects, both frontend and backend, and
+                I'm familiar with the Angular ecosystem.
             </p>
             <p class="text-base">
-                <b class="underline underline-offset-2">ASP.NET Core: </b> I've been working with SvelteKit
+                <b class="underline underline-offset-2">SvelteKit: </b> I've been working with SvelteKit
                 for about 1 year now. I've worked on multiple projects, both frontend and backend, and
                 I'm familiar with the Svelte ecosystem.
             </p>
