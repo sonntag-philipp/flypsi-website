@@ -15,11 +15,9 @@
             <h2 class="subtitle">but feel free to call me Flypsi!</h2>
         </div>
         <div class="flex justify-center">
-            <img
-                class="rounded-full max-h-xs h-14 max-w-xs w-h-14 shadow-sm aspect-square"
-                alt="GitHub logo"
-                src={github_logo}
-            />
+            <a class="hover:underline underline-offset-2" href="mailto:contact@flyp.si"
+                >Contact me</a
+            >
         </div>
     </div>
     <div class="w-full flex items-end justify-end gap-1">

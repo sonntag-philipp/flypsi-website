@@ -1,5 +1,4 @@
 <script>
-    import Experiences from '$lib/experiences.svelte';
     import Greeting from '$lib/greeting.svelte';
     import Introduction from '$lib/introduction.svelte';
     import Technologies from '$lib/technologies.svelte';
@@ -14,9 +13,6 @@
     </div>
     <div class="slides">
         <Technologies />
-    </div>
-    <div class="slides">
-        <h1>Contact</h1>
     </div>
 </div>
 
