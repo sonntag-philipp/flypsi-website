@@ -2,39 +2,27 @@
     <div>
         <h1 class="text-2xl">Technologies:</h1>
         <div class="flex flex-col sm:flex-row gap-4 py-4">
-            <p class="text-base">
+            <p>
                 <b class="underline underline-offset-2">Angular: </b> I've been working with Angular
-                for about <b>5 years</b> now. I've worked on multiple projects, where I updated old existing
-                projects to the latest Angular version, and I'm familiar with the Angular ecosystem.
+                for about <b>5 years</b> now. I've worked on multiple projects where I occasionally took
+                the role of the technical frontend lead.
             </p>
-            <p class="text-base">
-                <b class="underline underline-offset-2">ASP.NET Core: </b> I've been working with SvelteKit
-                for about 1 year now. I've worked on multiple projects, both frontend and backend, and
-                I'm familiar with the Svelte ecosystem.
+            <p>
+                <b class="underline underline-offset-2">ASP.NET Core: </b> I've been working with
+                ASP.NET Core for about <b>2 years</b> now. I've worked on multiple projects, both frontend
+                and backend, and I'm familiar with the ASP.NET Core ecosystem.
             </p>
-            <p class="hidden lg:block text-base">
+            <p class="hidden lg:block">
                 <b class="underline underline-offset-2">NodeJS: </b> I've been working with NodeJS for
                 about 2 years now. I've worked on multiple projects, both frontend and backend, and I'm
                 familiar with the NodeJS ecosystem.
             </p>
         </div>
-        <div class="hidden lg:flex flex-col sm:flex-row gap-4">
-            <p class="text-base">
-                <b class="underline underline-offset-2">Angular: </b> I've been working with Angular
-                for about 2 years now. I've worked on multiple projects, both frontend and backend, and
-                I'm familiar with the Angular ecosystem.
-            </p>
-            <p class="text-base">
-                <b class="underline underline-offset-2">SvelteKit: </b> I've been working with SvelteKit
-                for about 1 year now. I've worked on multiple projects, both frontend and backend, and
-                I'm familiar with the Svelte ecosystem.
-            </p>
-            <p class="text-base">
-                <b class="underline underline-offset-2">NodeJS: </b> I've been working with NodeJS for
-                about 2 years now. I've worked on multiple projects, both frontend and backend, and I'm
-                familiar with the NodeJS ecosystem.
-            </p>
-        </div>
+        <h1 class="text-xl pb-4">Further interests:</h1>
+        <p>
+            SvelteKit, Nuxt, VueJS, C#, TailwindCSS, WSL, Docker, TypeScript, Fluent UI, Playwright,
+            Bun, Blazor, Web Components, Java
+        </p>
     </div>
 </div>
 

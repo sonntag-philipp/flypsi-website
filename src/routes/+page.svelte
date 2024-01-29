@@ -16,15 +16,6 @@
         <Technologies />
     </div>
     <div class="slides">
-        <Experiences />
-    </div>
-    <div class="slides">
-        <h1>Education</h1>
-    </div>
-    <div class="slides">
-        <h1>Open Source</h1>
-    </div>
-    <div class="slides">
         <h1>Contact</h1>
     </div>
 </div>
