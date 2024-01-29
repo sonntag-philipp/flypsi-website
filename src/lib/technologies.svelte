@@ -1,7 +1,7 @@
 <div class="w-full h-full max-w-screen-lg flex justify-center items-center">
     <div>
-        <h1 class="text-2xl">Technologies:</h1>
-        <div class="flex flex-col sm:flex-row gap-4 py-4">
+        <h1 class="text-2xl pb-2">Technologies:</h1>
+        <div class="flex flex-col sm:flex-row gap-4 pb-4">
             <p>
                 <b class="underline underline-offset-2">Angular: </b> I've been working with Angular
                 for about <b>5 years</b> now. I've worked on multiple projects where I occasionally took
@@ -18,21 +18,10 @@
                 familiar with the NodeJS ecosystem.
             </p>
         </div>
-        <h1 class="text-xl pb-4">Further interests:</h1>
+        <h1 class="text-xl pb-2">Further interests:</h1>
         <p>
             SvelteKit, Nuxt, VueJS, C#, TailwindCSS, WSL, Docker, TypeScript, Fluent UI, Playwright,
             Bun, Blazor, Web Components, Java
         </p>
     </div>
 </div>
-
-<style>
-    * {
-        font-family: monospace;
-    }
-
-    p,
-    h1 {
-        color: white;
-    }
-</style>
