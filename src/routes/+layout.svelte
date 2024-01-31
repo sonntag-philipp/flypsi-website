@@ -11,6 +11,7 @@
     <meta name="msapplication-TileColor" content="#da532c" />
     <meta name="theme-color" content="#ffffff" />
 
+    <title>Philipp Sonntag | Flypsi - Experienced software engineer</title>
     <meta name="title" content="Philipp Sonntag | Flypsi - Experienced software engineer" />
     <meta
         name="description"
