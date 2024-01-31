@@ -1,14 +1,10 @@
-<script>
-    import profile_picture from '$lib/assets/images/profile_picture.jpg';
-</script>
-
 <div class="h-full w-full flex flex-col">
     <div class="w-full grow flex flex-col pb-16 justify-center items-center">
         <div class="grow flex flex-col gap-4 pb-4 justify-center items-center">
-            <img
+            <enhanced:img
                 class="rounded-full max-h-xs h-60 max-w-xs w-60 shadow-2xl aspect-square"
                 alt="The developers with green leaves in the background"
-                src={profile_picture}
+                src="$lib/assets/images/profile_picture.jpg"
             />
             <h1 class="title">Hey there! I'm Philipp,</h1>
             <h2 class="subtitle">but feel free to call me Flypsi!</h2>
@@ -38,7 +34,7 @@
     </div>
 </div>
 
-<style>
+<style type="postcss">
     .subtitle {
         @apply text-base md:text-xl text-slate-950 opacity-0;
         animation: fadeIn 0.5s ease-in-out 3s forwards;
