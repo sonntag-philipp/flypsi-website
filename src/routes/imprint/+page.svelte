@@ -1,5 +1,21 @@
 <div class="w-full h-full flex flex-col justify-center items-center">
     <div class="flex flex-col w-full max-w-screen-lg p-6 sm:p-12">
+        <div class="flex items-center pb-8 gap-2">
+            <svg
+                viewBox="0 0 24 24"
+                stroke-width="1.5"
+                stroke="currentColor"
+                class="w-5 h-5 fill-white"
+                aria-label="Navigate back arrow"
+            >
+                <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    d="M10.5 19.5 3 12m0 0 7.5-7.5M3 12h18"
+                />
+            </svg>
+            <a href="/" class="hover:underline underline-offset-2">Back to my profile</a>
+        </div>
         <h1 class="text-2xl pb-2">Impressum</h1>
         <p>Angaben gemäß § 5 TMG</p>
 
